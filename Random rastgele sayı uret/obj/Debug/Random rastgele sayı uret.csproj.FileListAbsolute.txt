@@ -1,0 +1,20 @@
+C:\Users\Dell\source\repos\C# ders 4\Random rastgele sayı uret\Random rastgele sayı uret\bin\Debug\Random rastgele sayı uret.exe.config
+C:\Users\Dell\source\repos\C# ders 4\Random rastgele sayı uret\Random rastgele sayı uret\bin\Debug\Random rastgele sayı uret.exe
+C:\Users\Dell\source\repos\C# ders 4\Random rastgele sayı uret\Random rastgele sayı uret\bin\Debug\Random rastgele sayı uret.pdb
+C:\Users\Dell\source\repos\C# ders 4\Random rastgele sayı uret\Random rastgele sayı uret\obj\Debug\Random rastgele sayı uret.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C# ders 4\Random rastgele sayı uret\Random rastgele sayı uret\obj\Debug\Random_rastgele_sayı_uret.Form1.resources
+C:\Users\Dell\source\repos\C# ders 4\Random rastgele sayı uret\Random rastgele sayı uret\obj\Debug\Random_rastgele_sayı_uret.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 4\Random rastgele sayı uret\Random rastgele sayı uret\obj\Debug\Random rastgele sayı uret.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 4\Random rastgele sayı uret\Random rastgele sayı uret\obj\Debug\Random rastgele sayı uret.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 4\Random rastgele sayı uret\Random rastgele sayı uret\obj\Debug\Random rastgele sayı uret.exe
+C:\Users\Dell\source\repos\C# ders 4\Random rastgele sayı uret\Random rastgele sayı uret\obj\Debug\Random rastgele sayı uret.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\Random-Rastgele-Sayi-Uretme\Random rastgele sayı uret\bin\Debug\Random rastgele sayı uret.exe.config
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\Random-Rastgele-Sayi-Uretme\Random rastgele sayı uret\bin\Debug\Random rastgele sayı uret.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\Random-Rastgele-Sayi-Uretme\Random rastgele sayı uret\bin\Debug\Random rastgele sayı uret.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\Random-Rastgele-Sayi-Uretme\Random rastgele sayı uret\obj\Debug\Random rastgele sayı uret.csprojAssemblyReference.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\Random-Rastgele-Sayi-Uretme\Random rastgele sayı uret\obj\Debug\Random_rastgele_sayı_uret.Form1.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\Random-Rastgele-Sayi-Uretme\Random rastgele sayı uret\obj\Debug\Random_rastgele_sayı_uret.Properties.Resources.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\Random-Rastgele-Sayi-Uretme\Random rastgele sayı uret\obj\Debug\Random rastgele sayı uret.csproj.GenerateResource.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\Random-Rastgele-Sayi-Uretme\Random rastgele sayı uret\obj\Debug\Random rastgele sayı uret.csproj.CoreCompileInputs.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\Random-Rastgele-Sayi-Uretme\Random rastgele sayı uret\obj\Debug\Random rastgele sayı uret.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\Random-Rastgele-Sayi-Uretme\Random rastgele sayı uret\obj\Debug\Random rastgele sayı uret.pdb
